@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Gradrien&count_private=trues&theme=tokyonight&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Gradrien&count_private=true&theme=tokyonight&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gradrien&theme=tokyonight&custom_title=CodingStats)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -10,9 +10,10 @@
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">      
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/Bash-93939E?style=for-the-badge&logo=bash&logoColor=93939e">
+      <img src="https://img.shields.io/badge/Bash-93939E?style=for-the-badge&logo=bash&logoColor=93939e">  
+      <img src="https://img.shields.io/badge/Flutter-2CA5E0?style=for-the-badge&logo=flutter&logoColor=white">
     </p>
     <p align="center"> Frameworks & Library </p>
     <p align="center">
@@ -43,6 +44,9 @@
       <br/>
       <a href="https://www.linkedin.com/in/adrien-ricou/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://adrien-ricou.fr" target="blank"><img align="center"
+         src="https://img.shields.io/badge/adrien--ricou.fr-4e6fa8?style=for-the-badge&logo=Internet&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:adrien.ricou@epitech.eu" target="blank"><img align="center"
          src="https://img.shields.io/badge/adrien.ricou@epitech.eu-0078D4.svg?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white"

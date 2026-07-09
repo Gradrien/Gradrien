@@ -1,82 +1,76 @@
-<h1 align="center">Hi, I'm Adrien Ricou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-&nbsp;
-
-<div>
-  <samp>
-    <h2 align="center">🛠 Skills :</h2>
-    <p align="center"> Languages </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">      
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/Bash-93939E?style=for-the-badge&logo=bash&logoColor=93939e">  
-      <img src="https://img.shields.io/badge/Flutter-2CA5E0?style=for-the-badge&logo=flutter&logoColor=white">
-    </p>
-    <p align="center"> Frameworks & Library </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/NodeJS-12AD0C?style=for-the-badge&logo=node&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    </p>
-    <p align="center"> Databases </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    </p>
-    <p align="center"> IDE </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    </p>
-  </samp>
+<div align="center">
+  <h1>Hello there, I'm Gradrien 👋</h1>
+  <h3>a Full-Stack & Systems Software Engineer</h3>
+  <h3>Based in Bordeaux, France 🇫🇷 </h3>
 </div>
 
-&nbsp;
+<h2>About Me</h2>
+<ul>
+  <li>Currently working as a full-stack and systems software engineer at <strong>TreeFrog Therapeutics</strong>.</li>
+  <li>Love creating user-centered interfaces and <strong>crafting intuitive, seamless UI/UX experiences</strong>.</li>
+  <li>Passionate about bridging the gap between high-level web technologies, complex hardware integration, and AI.</li>
+</ul>
 
-<div>
-  <samp>
-    <h2 align="center">😎 You can reach me by :</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/adrien-ricou/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://adrien-ricou.fr" target="blank"><img align="center"
-         src="https://img.shields.io/badge/adrien--ricou.fr-4e6fa8?style=for-the-badge&logo=Internet&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:adrien.ricou@epitech.eu" target="blank"><img align="center"
-         src="https://img.shields.io/badge/adrien.ricou@epitech.eu-0078D4.svg?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  </samp>
+<h2>What I'm Building Today</h2>
+<ul>
+  <li>🐸 <strong>Encapsulation Bench (TreeFrog Therapeutics):</strong> Designing and integrating custom biotech hardware control systems using .NET, C#, and Python.</li>
+  <li>🧠 <strong>Eido:</strong> Co-founded an AI-powered revision application that leverages OCR and LLMs to automatically generate intelligent flashcards and quizzes for students.</li>
+  <li>🥋 <strong>Judodex:</strong> Creating a gamified Judo learning application to help people learn techniques.</li>
+  <li>💣 <strong>Time Bomb Digital:</strong> Built a responsive, web-based mobile adaptation of the Time Bomb card game for local multiplayer.</li>
+</ul>
+
+<h2>My Tech Stack</h2>
+
+<h4>Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
+</p>
+
+<h4>Backend</h4>
+<p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS"/>
+</p>
+
+<h4>Mobile</h4>
+<p>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"/>
+</p>
+
+<h4>Tools & Design</h4>
+<p>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white" alt="Biome"/>
+  <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains"/>
+  <img src="https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+<hr>
+
+<div align="center">
+  <i>Let's connect and build something awesome!</i>
+  <br><br>
+  <a href="https://linkedin.com/in/adrien-ricou">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://adrien-ricou.fr">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:adrien.ricou@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My email"/>
+  </a>
 </div>
-
-&nbsp;
-
-<div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/Gradrien/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gradrien&langs_count=6&theme=radical&layout=compact&hide_border=true&count_private=true" alt="Gradrien :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Gradrien/">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gradrien&theme=radical&count_private=true" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Gradrien/">
-          <img src="https://github-profile-trophy.vercel.app/?username=Gradrien&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true&count_private=true" />
-          </a>
-       </p>
-        <p align="center">
-          <a href="https://github.com/Gradrien/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Gradrien&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gradrien&theme=radical&hide_border=true&count_private=true" />
-          </a>
-       </p>
-  </div>

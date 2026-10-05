@@ -14,6 +14,7 @@
 <h2>What I'm Building Today</h2>
 <ul>
   <li>🧠 <strong>Eido:</strong> Co-founded an AI-powered revision application that leverages OCR and LLMs to automatically generate intelligent flashcards and quizzes for students.</li>
+  <li>💪 <strong>WodBook:</strong> Creating an app to create and follow my CrossFit workouts.</li>
   <li>🥋 <strong>Judodex:</strong> Creating a gamified Judo learning application to help people learn techniques.</li>
   <li>💣 <strong>Time Bomb Digital:</strong> Built a responsive, web-based mobile adaptation of the Time Bomb card game for local multiplayer.</li>
 </ul>

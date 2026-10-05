@@ -6,14 +6,13 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>Currently working as a full-stack and systems software engineer at <strong>TreeFrog Therapeutics</strong>.</li>
+  <li>Currently working as a full-stack software engineer at <strong>Yalink</strong>.</li>
   <li>Love creating user-centered interfaces and <strong>crafting intuitive, seamless UI/UX experiences</strong>.</li>
   <li>Passionate about bridging the gap between high-level web technologies, complex hardware integration, and AI.</li>
 </ul>
 
 <h2>What I'm Building Today</h2>
 <ul>
-  <li>🐸 <strong>Encapsulation Bench (TreeFrog Therapeutics):</strong> Designing and integrating custom biotech hardware control systems using .NET, C#, and Python.</li>
   <li>🧠 <strong>Eido:</strong> Co-founded an AI-powered revision application that leverages OCR and LLMs to automatically generate intelligent flashcards and quizzes for students.</li>
   <li>🥋 <strong>Judodex:</strong> Creating a gamified Judo learning application to help people learn techniques.</li>
   <li>💣 <strong>Time Bomb Digital:</strong> Built a responsive, web-based mobile adaptation of the Time Bomb card game for local multiplayer.</li>
